@@ -13,7 +13,7 @@ I'm a developer mainly working with Python and JavaScript. I enjoy building proj
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayrox106&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=sayrox106&theme=onestar)
+![](https://github-profile-trophy.vercel.app/?username=sayrox106&theme=onestar)
 ![](https://github-profile-trophy.vercel.app/?username=sayrox106&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
